@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **marcolbr2001@gmail.com**
 
-- 📄 Know about my experiences [ll](ll)
+- 📄 Know about my experiences [See my CV](https://github.com/Marcolbr2001/Marcolbr2001/blob/main/CV.pdf)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcolbr2001&show_icons=true&locale=en&layout=compact" alt="marcolbr2001" /></p>
