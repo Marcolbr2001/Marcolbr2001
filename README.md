@@ -30,6 +30,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://paypal.me/marcolbr2001"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://paypal.me/marcolbr2001" /></a></p><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcolbr2001&show_icons=true&locale=en" alt="marcolbr2001" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcolbr2001&show_icons=true&locale=en" alt="marcolbr2001" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marcolbr2001" alt="marcolbr2001" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marcolbr2001" alt="marcolbr2001" /></a> </p>--X
