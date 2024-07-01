@@ -16,6 +16,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcolbr2001&show_icons=true&locale=en&layout=compact" alt="marcolbr2001" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcolbr2001&" alt="marcolbr2001" /></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/marco la barbera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marco la barbera" height="30" width="40" /></a>
@@ -29,7 +31,5 @@
 <p><a href="https://www.buymeacoffee.com/https://paypal.me/marcolbr2001"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://paypal.me/marcolbr2001" /></a></p><br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcolbr2001&show_icons=true&locale=en" alt="marcolbr2001" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcolbr2001&" alt="marcolbr2001" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marcolbr2001" alt="marcolbr2001" /></a> </p>
