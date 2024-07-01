@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcolbr2001&label=Profile%20views&color=0e75b6&style=flat" alt="marcolbr2001" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marcolbr2001" alt="marcolbr2001" /></a> </p>
-
 - 🔭 I’m currently working on [AXI4 High Speed Communication for General Purpose Microprocessors and RegEx Architectures](https://github.com/Marcolbr2001/AOHW-329.git)
 
 - 🌱 I’m currently learning **FPGAs/ASICs Design,Microcontrollers architecture,RISC-V and MIPS architecture, VHDL, Verilog, HLS**
@@ -33,3 +31,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcolbr2001&show_icons=true&locale=en" alt="marcolbr2001" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcolbr2001&" alt="marcolbr2001" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marcolbr2001" alt="marcolbr2001" /></a> </p>
