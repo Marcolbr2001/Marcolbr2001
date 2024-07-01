@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcolbr2001&label=Profile%20views&color=0e75b6&style=flat" alt="marcolbr2001" /> </p>
 
+- 📚 I'm currently a Master's student at Politecnico di Milano - Electronics Engineering
+
 - 🔭 I’m currently working on [AXI4 High Speed Communication for General Purpose Microprocessors and RegEx Architectures](https://github.com/Marcolbr2001/AOHW-329.git)
 
 - 🌱 I’m currently learning **FPGAs/ASICs Design,Microcontrollers architecture,RISC-V and MIPS architecture, VHDL, Verilog, HLS**
