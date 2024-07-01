@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marcolbr2001" alt="marcolbr2001" /></a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcolbr2001&show_icons=true&locale=en&layout=compact" alt="marcolbr2001" /></p>
+
 - 🔭 I’m currently working on [AXI4 High Speed Communication for General Purpose Microprocessors and RegEx Architectures](https://github.com/Marcolbr2001/AOHW-329.git)
 
 - 🌱 I’m currently learning **FPGAs/ASICs Design,Microcontrollers architecture,RISC-V and MIPS architecture, VHDL, Verilog, HLS**
@@ -26,8 +28,6 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://paypal.me/marcolbr2001"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://paypal.me/marcolbr2001" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcolbr2001&show_icons=true&locale=en&layout=compact" alt="marcolbr2001" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcolbr2001&show_icons=true&locale=en" alt="marcolbr2001" /></p>
 
