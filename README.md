@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marco La Barbera</h1>
-<h3 align="center">A passionate electronics engineer with a love for robotics and space exploration!</h3>
+<h3 align="center">A passionate electronic engineer with a love for robotics and space exploration!</h3>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=marcolbr2001&label=Profile%20views&color=0e75b6&style=flat" alt="marcolbr2001" /> </p>-->
 
