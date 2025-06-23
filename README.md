@@ -18,6 +18,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcolbr2001&show_icons=true&locale=en&layout=compact" alt="marcolbr2001" /></p>
 
+<!--
 <p><img align="center" width="419px" src="https://github-readme-streak-stats.herokuapp.com/?user=marcolbr2001&" alt="marcolbr2001" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -31,6 +32,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/marcolbr2001"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/marcolbr2001" /></a></p><br><br>
+-->
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcolbr2001&show_icons=true&locale=en" alt="marcolbr2001" /></p>
 
