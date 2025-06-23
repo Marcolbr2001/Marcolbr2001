@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Marco La Barbera</h1>
-<h3 align="center">A passionate Electronics Engineer from Italy</h3>
+<h3 align="center">A passionate about robotics and space exploration, electronics engineer!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcolbr2001&label=Profile%20views&color=0e75b6&style=flat" alt="marcolbr2001" /> </p>
 
 - 📚 I'm currently a Master's student at Politecnico di Milano - Electronics Engineering, and an exchange student at Chalmers, Sweden 🇸🇪.
 
-- 🔭 I’m currently working on [AXI4 High Speed Communication for General Purpose Microprocessors and RegEx Architectures](https://github.com/Marcolbr2001/AOHW-329.git)
+- 🔭 I’m currently working on my Master's thesis.
 
 - 🌱 I’m currently learning **FPGAs/ASICs Design,Microcontrollers architecture,RISC-V and MIPS architecture, VHDL, Verilog, HLS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Marcolbr2001](https://github.com/Marcolbr2001)
+- 👨‍💻 All of my academic and personal projects are available at [https://github.com/Marcolbr2001](https://github.com/Marcolbr2001)
 
 - 📫 How to reach me **marcolbr2001@gmail.com**
 
