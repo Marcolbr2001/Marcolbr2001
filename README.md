@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marco La Barbera</h1>
 <h3 align="center">A passionate about robotics and space exploration, electronics engineer!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marcolbr2001&label=Profile%20views&color=0e75b6&style=flat" alt="marcolbr2001" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=marcolbr2001&label=Profile%20views&color=0e75b6&style=flat" alt="marcolbr2001" /> </p>-->
 
 - 📚 I'm currently a Master's student at Politecnico di Milano - Electronics Engineering, and an exchange student at Chalmers, Sweden 🇸🇪.
 
