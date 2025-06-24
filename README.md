@@ -4,7 +4,7 @@
 - 🎓 Currently pursuing my Master's in Electronics Engineering at Politecnico di Milano  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📍 Exchange student at Chalmers University of Technology, Sweden 🇸🇪
 
-- 🔭 Working on my Master's thesis focused on embedded systems and real-time hardware design
+- 🔭 Working on my Master's thesis focused on ...
 
 - 🚀 Actively learning about **FPGAs/ASIC design, microcontroller architecture, RISC-V, MIPS, VHDL, Verilog, and HLS**
 
