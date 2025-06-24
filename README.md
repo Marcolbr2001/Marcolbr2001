@@ -8,7 +8,7 @@
 
 - 🚀 Actively learning about **FPGAs/ASIC design, microcontroller architecture, RISC-V, MIPS, VHDL, Verilog, and HLS**
 
-- 💡 I love building systems from the ground up — from architecture to implementation
+- 💡 I love building systems from the ground up, from architecture to implementation
 
 - 👨‍💻 Check out all my academic and personal projects on [GitHub](https://github.com/Marcolbr2001)
 
