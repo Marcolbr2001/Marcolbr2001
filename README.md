@@ -14,7 +14,7 @@
 
 - 📫 Reach me at: **marcolbr2001@gmail.com**
 
-- 📄 [View my CV](https://github.com/Marcolbr2001/Marcolbr2001/blob/main/CV.pdf)
+- 📄 Know about me: [View my CV](https://github.com/Marcolbr2001/Marcolbr2001/blob/main/CV.pdf)
 
 ---
 
