@@ -4,7 +4,7 @@
 - 🎓 Currently pursuing my Master's in Electronics Engineering at Politecnico di Milano  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📍 Exchange student at Chalmers University of Technology, Sweden 🇸🇪
 
-- 🔭 Working on my Master's thesis focused on ...
+- 🔭 Working on my Master's thesis focused on a European Space Agency collaboration project. I conducted a test campaign at ESA/ESTEC facility to collect dust sensor data working with lunar simulant particles. I realized the PCB for a space dust-sensor system, covering EMC analysis, component selection, Cadence simulations and microcontroller choice; currently developing firmware for an STM32 Arm-based microcontroller.
 
 - 🚀 Actively learning about **FPGAs/ASIC design, microcontroller architecture, RISC-V, MIPS, VHDL, Verilog, and HLS**
 
