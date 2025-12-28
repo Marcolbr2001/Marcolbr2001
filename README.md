@@ -13,9 +13,6 @@
 - 👨‍💻 Check out all my academic and personal projects on [GitHub](https://github.com/Marcolbr2001)
 
 - 📫 Reach me at: **marcolbr2001@gmail.com**
-
-- 📄 Know more about me: [View my CV](https://github.com/Marcolbr2001/Marcolbr2001/blob/main/CV.pdf)
-
 ---
 
 <p align="center">
